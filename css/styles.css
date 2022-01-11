@@ -4,9 +4,29 @@
     --primaryColor: #1B90FC;
     --white:white;
     --black: #202020;
-
-
 }
+/* .box {
+    background: red;
+   display: flex;
+   flex-direction: column;
+}
+
+.box > * {
+    display: flex;
+    color: white;
+}
+
+.box >:nth-child(1){
+     background: yellow;
+     z-index: 1;
+ }
+
+.box >:nth-child(2){
+   background: blue;
+   margin-block-start: -12px;
+   color: green;
+} */
+
 body {
     /* border: 10px solid red; */
     /* outline: 10px solid green; */
